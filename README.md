@@ -1,2 +1,37 @@
 # advent-of-code-2022
-For each day of the 2022 advent of code, I wrote the solution in a different language.
+For each day of the 2022 advent of code, I wrote the solution in a different language. The language was chosen randomly from a list I made at the start and was chosen by a discord bot I wrote.
+
+### December 1 - javascript
+  - **difficulty:** easy
+
+  - **time:** ~ 1 hour
+
+  - **experience:** high
+
+  - **comments:**
+    - pretty solution
+
+
+### December 2 - scratch
+  - **difficulty:** medium-hard
+
+  - **time:** ~ 3 hours
+
+  - **experience:** low
+
+  - **comments:**
+    - tedious
+    - used scratch in high school
+    - ugly solution
+    
+### December 3 - lua
+  - **difficulty:** easy-medium
+
+  - **time:** ~ 2 hours
+
+  - **experience:** none
+
+  - **comments:**
+    - tedious
+    - lua doesn't have many helper functions for tables and strings
+    - easy to install
