@@ -132,7 +132,7 @@ program hello
 			stacks(move_to, j) = stacks(move_from, j)
 		end do
 
-		!shift destination stack down
+		!shift origin stack down
 		do j = 1, stackCounters(move_from) - move_amount
 			stacks(move_from, j) = stacks(move_from, j + move_amount)
 		end do
