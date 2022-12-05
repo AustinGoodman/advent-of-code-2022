@@ -46,3 +46,15 @@ For each day of the 2022 advent of code, I wrote the solution in a different lan
   - **comments:**
     - C# is pretty tolerable for a strong typed language
     - easyish to install
+
+### December 5 - fortran
+  - **difficulty:** very hard
+
+  - **time:** ~ 3.5 hours
+
+  - **experience:** none
+
+  - **comments:**
+    - almost gave up
+    - not super easy to install a compiler on windows
+    - lowest level high level language
