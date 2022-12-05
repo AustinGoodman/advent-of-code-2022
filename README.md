@@ -35,3 +35,14 @@ For each day of the 2022 advent of code, I wrote the solution in a different lan
     - tedious
     - lua doesn't have many helper functions for tables and strings
     - easy to install
+    
+### December 4 - C#
+  - **difficulty:** easy
+
+  - **time:** ~ 1.25 hours
+
+  - **experience:** medium
+
+  - **comments:**
+    - C# is pretty tolerable for a strong typed language
+    - easyish to install
