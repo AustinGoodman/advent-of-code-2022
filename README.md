@@ -58,3 +58,15 @@ For each day of the 2022 advent of code, I wrote the solution in a different lan
     - almost gave up
     - not super easy to install a compiler on windows
     - lowest level high level language
+    
+### December 6 - ruby
+  - **difficulty:** very easy
+
+  - **time:** ~ 1.5 hours
+
+  - **experience:** none
+
+  - **comments:**
+    - easy to install
+    - ruby good
+    - lost time due to misunderstanding of the problem
