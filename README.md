@@ -70,3 +70,15 @@ For each day of the 2022 advent of code, I wrote the solution in a different lan
     - easy to install
     - ruby good
     - lost time due to misunderstanding of the problem
+    
+### December 8 - java
+  - **difficulty:** easy-medium
+
+  - **time:** ~ 1.25 hours
+
+  - **experience:** high
+
+  - **comments:**
+    - easyish to install
+    - java boring
+    - java is good with 2d arrays
